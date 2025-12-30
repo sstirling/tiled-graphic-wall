@@ -255,23 +255,6 @@ Open the URL and confirm:
 
 ---
 
-## Design philosophy
-
-This project intentionally avoids:
-
-* Frameworks
-* Build tools
-* Dependencies
-* Backends
-
-That’s not a limitation — it’s a durability strategy.
-
-The fewer moving parts you depend on, the longer this site will survive.
-
-You should be able to open this repo **five years from now**, change a JSON file, and have it still work.
-
----
-
 ## Who this is for
 
 * Reporters
