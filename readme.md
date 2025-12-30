@@ -1,3 +1,5 @@
+![Graphic Wall example](img/header.png)
+
 # SStirling Graphic Wall
 
 *A lightweight, vanilla-JS template for archiving and displaying visual work*
