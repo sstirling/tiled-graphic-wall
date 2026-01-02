@@ -19,15 +19,8 @@ All of it contributes to work quietly disappearing — especially visual work.
 
 This is true for journalism, art, data visualization, and design. Stories vanish. Embeds break. Interactive tools are deprecated. Employers change CMSes. And one day, years later, you realize the work you were proud of is either gone or very hard to prove you made.
 
-This project is a response to that.
-
 **The goal of this template is simple:**
 Create a durable, self-hosted “wall” of your work — built from images you control, paired with direct links to the best surviving interactive versions, and powered by lightweight metadata.
-
-No framework.
-No backend.
-No build step.
-Just HTML, CSS, JavaScript, and a JSON file you can maintain for years.
 
 ---
 
